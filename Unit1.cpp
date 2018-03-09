@@ -27,6 +27,8 @@ VirtualStringTree1->NodeDataSize = sizeof(FileStruct);
 }
 //---------------------------------------------------------------------------
 
+//ñhange smth   ñhange smth   ñhange smth
+
 //paint
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
@@ -117,6 +119,11 @@ void __fastcall TForm1::VirtualStringTree1GetText(TBaseVirtualTree *Sender, PVir
 
 }
 //---------------------------------------------------------------------------
+
+//ñhange smth   ñhange smth   ñhange smth
+
+//ñhange smth   ñhange smth   ñhange smth
+
 //delete record
 
 void __fastcall TForm1::Button2Click(TObject *Sender)
