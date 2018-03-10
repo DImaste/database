@@ -29,6 +29,10 @@ VirtualStringTree1->NodeDataSize = sizeof(FileStruct);
 
 //ñhange smth   ñhange smth   ñhange smth
 
+// branch another here
+
+//right here another
+
 //paint
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
